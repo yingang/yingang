@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yingang
-- 👀 I’m interested in software development, reading books and playing games.
+- 👀 I’m interested in software development, reading books and playing video games.
 - 🌱 I’m currently learning Rust, Cloud Native techniques, Blockchain, etc.
 - 📫 You can reach me by commenting in my [blog](https://yingang.github.io/).
 
