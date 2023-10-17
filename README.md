@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yingang
-- 👀 I’m interested in software development, reading books and playing video games.
-- 🌱 I’m currently learning Rust, Cloud Native techniques, Blockchain, etc.
+- 👋 Hi, I'm @yingang.
+- 👀 Currently, I'm working as a Senior System Engineer for a medical device manufaturer.
+- 🌱 In my free time, I'm learning Rust, Cloud Native techniques, Blockchain and Deep Learning, etc.
 - 📫 You can reach me by commenting in my [blog](https://yingang.github.io/).
 
 <!---
