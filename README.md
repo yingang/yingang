@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @yingang.
-- 👀 Currently, I'm working as a Senior System Engineer for a medical device manufaturer.
-- 🌱 In my free time, I'm learning Rust, Cloud Native techniques, Blockchain and Deep Learning, etc.
+- 👀 Currently, I work as a Senior System Engineer for a medical device manufaturer.
+- 🌱 In my free time, I'm learning Cloud Native techniques, Blockchain and Deep Learning, etc.
 - 📫 You can reach me by commenting in my [blog](https://yingang.github.io/).
 
 <!---
